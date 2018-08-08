@@ -1,0 +1,57 @@
+.main-text {
+		background: url('../img/burger.png');
+		background-color: rgb(75,75,75); 
+	height: 500px;
+  background-color: #fbefcc!important;
+  margin-top: 20px;
+	margin-bottom: 30px;
+	font-family: sans-serif;
+	color: rgb(75, 75, 75);
+	text-shadow: 2px 2px #fff;
+}
+
+
+body {
+	background: url('../img/menu.jpg');
+	background-size: 100%;
+	image-orientation: center;
+	background-color: rgb(230, 138, 0);
+	border: 15px inset rgb(110, 109, 109);
+}
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+ul li {
+  justify-content: space-between;
+  display: flex;
+}
+
+.devour-btn, 
+#submit-burger {
+  background-color: rgb(206, 81, 81);
+  border-color: #f9ccac;
+}
+
+.devour-btn:hover, 
+#submit-burger:hover {
+  background-color:  rgb(206, 81, 81);
+  border-color: #f4a688;
+}
+
+form {
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+
+#input-label {
+  font-size: 24px;
+}
+#textspace {
+	width: 60%;
+	align-self: center;
+	border: 6px solid rgb(131, 136, 149);
+	background-color: rgba(240, 0, 0, 0.418)
+}
