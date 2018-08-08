@@ -1,7 +1,7 @@
 {
   "name": "eat-da-burger",
   "version": "1.0.0",
-  "description": "",
+  "description": "when you list an item that is to go to the database it populates on the screen first..... when you click devour... it sends that information to the sql database.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
