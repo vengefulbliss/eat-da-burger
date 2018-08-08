@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/vengefulbliss/eat-da-burger/issues"
   },
-  "homepage": "https://github.com/vengefulbliss/eat-da-burger#readme",
+  "homepage": "https://git.heroku.com/eat-da-burger-stevo.git",
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
