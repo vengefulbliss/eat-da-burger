@@ -9,7 +9,7 @@ var burger = require("../models/burger.js");
 //Create the router and the routes
 
 // get request to select all and render the page with the handlebars index
-router.get("/config/connection.js", function(req, res) {
+router.get("/views", function(req, res) {
   burger.selectAll(function(data) {
 
     var hbsObject = {
